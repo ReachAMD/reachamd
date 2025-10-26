@@ -1,14 +1,7 @@
 # 👋 Hi, I'm Amogh  
 **Business Analyst | Data Analyst |**
 
-I am passionate about Data Exploration, Power BI, SQL & Python. 
-
----
-
-## 📈 Current Focus
-- Advanced **Power BI** (DAX Optimization, Row-Level Security, Data Modeling)  
-- **Python for Data Engineering** (ETL, Automation, APIs, TensorFlow, Pytorch)  
-- **Business Analysis Documentation** (BRD, FRD, User Stories, Agile Frameworks)  
+I am passionate about Data Exploration, Power BI, SQL & Python. I specialize in leveraging these tools to turn raw data into business insights and automate manual processes that drive decision-making efficiency.
 
 ---
 
